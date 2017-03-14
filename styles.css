@@ -1,0 +1,41 @@
+/* add your CSS here */
+
+
+.card{
+	height: 30%;
+	width: 24%;
+	border: 1px solid #EAEBEB;
+	box-shadow: 10px 10px 5px -2px #F4F4F4;
+}
+
+.info-card{
+	width: 87%;
+	padding: 10px;
+	border: 1px solid #EAEBEB;
+	margin: 10px;
+	}
+
+.image{
+	width: 300px;
+	height: 200px;
+	margin: auto;
+	padding: 10px
+}
+
+.interesting-fact{
+	font-style: italic;
+}
+
+h3{
+	padding-left: 10px;
+	padding-top: 20px;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0;
+}
+
+span{
+	font-weight: bold;
+}
